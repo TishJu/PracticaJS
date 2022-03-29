@@ -1,0 +1,2 @@
+# PracticaJS
+Entrega PrácticaJS - Pokedex
